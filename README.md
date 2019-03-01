@@ -11,4 +11,4 @@ It is a Linux based App, designed in Python. It will check and notify your Real-
    4. Sqlite3
             Try : pip3 install sqlite3
             
-            OR Install it from here: https://pypi.org/project/db-sqlite3/
+         OR Install it from here: https://pypi.org/project/db-sqlite3/
